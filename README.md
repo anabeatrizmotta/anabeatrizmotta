@@ -18,15 +18,11 @@
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=anabeatrizmotta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Ana Beatriz GitHub stats" style="max-width: 100%; height: auto;"/>
-  </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatrizmotta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html&include_private=true" alt="Tecnologias" style="max-width: 100%; height: auto;"/>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anabeatrizmotta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Ana Beatriz GitHub stats" width="360" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatrizmotta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html&include_private=true" alt="Tecnologias" width="280" />
+</p>
 
 
 <hr>
